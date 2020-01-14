@@ -34,7 +34,6 @@ class HashTable:
 
         OPTIONAL STRETCH: Research and implement DJB2
         """
-        pass
 
     def _hash_mod(self, key):
         """
